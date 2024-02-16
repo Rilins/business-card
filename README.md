@@ -1,6 +1,6 @@
 ![](./assets/tela.png)
 
-### Tecnologias
+## Tecnologias
 Esse projeto foi desenvolvido com as tecnologias:
 
 - HTML e CSS
@@ -9,6 +9,7 @@ Esse projeto foi desenvolvido com as tecnologias:
 
 ## Projeto
 Página de links para usar como cartão de visitas online.
+[Acesse aqui](https://rilins.github.io/business-card/) a página de links!
 
 ## Licença
 Esse projeto está sob a Licença MIT.
